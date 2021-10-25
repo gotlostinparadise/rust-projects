@@ -6,4 +6,4 @@ Rust learning path
 3. Branches
 4. Functions
 5. "Number guessing" game
-6. 
+6. "Temperature converter" tool
